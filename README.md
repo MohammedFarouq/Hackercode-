@@ -18,3 +18,10 @@ pkg install git
 
 pip install rich
 
+git clone https://github.com/MohammedFarouq/Hackercode-.git
+
+ls
+
+cd Hackercode-
+ls
+python Hackercodeß.py
